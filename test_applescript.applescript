@@ -1,4 +1,4 @@
 
 on run
-  say "Trigger activated"
+  say "Trigger activated" --Just say a basic phrase
 end run
